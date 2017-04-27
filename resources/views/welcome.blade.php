@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata RÍO SAN FRANCISCO O VICACHA 23 de ABRIL de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata  PARQUE NACIONAL - KM 11  el 30 de ABRIL de 2017</div>
 
                     </div>
 <br>
@@ -32,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/vica.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/parque.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/vica1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/parque1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/vica2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/parque3.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -76,13 +76,14 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">El sendero del río San Francisco o Vicachá está ubicado en la localidades de Candelaria y Santafé que marcaba el límite norte de Bogotá en sus primeros años de fundación. Nace en el páramo de Cruz Verde y baja por el canon entre los  cerros de Monserrate y Guadalupe. Al llegar a la ciudad en la Quinta de Bolívar es canalizado. En la actual avenida Jiménez con calle Sexta confluye por debajo de la tierra con el río San Agustín.</font></p>
+                        <p><font size="3">El parque Nacional Enrique Olaya Herrera está ubicado en la localidad de Santa Fe, cuenta con tres sectores: Sector cultural, Sector deportivo y recreativo y la parte alta de montaña donde se encuentran varios senderos como el que nos conduce a la Vía de   Choachí. 
+                        A la altura del Km 11 de esta Vía que es límite de la ciudad pero aún es localidad de Santa Fe encontramos un ecosistema de sub páramo e inicio del páramo en la zona rural y veredal de El Verjón. Un lugar increíble para observar la ciudad y disfrutar de las montañas que nos rodean.</font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">El recorrido da inicio en la Plazoleta del Rosario ubicada frente a la estación Museo del oro, donde se realizará un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones, así como las prohibiciones y restricciones propias del recorrido y necesarias para su ejecución. Se dará inicio a la caminata desde la carrera 7ª con avenida Jiménez desplazándose hacia el oriente por el eje ambiental hasta llegar a la avenida circunvalar e ingresando a los predios del acueducto. En este sector se construyó un sendero por en bosque de niebla que conduce al mirador donde se puede apreciar el centro de la ciudad. El sendero en descenso nos lleva a la universidad distrital y de allí a la avenida Jiménez con carrera 3ª donde finaliza la caminata.</font></p>
+                        <p><font size="3">El recorrido da inicio en la torre del reloj del parque Nacional, donde el Guía de caminatas hace un calentamiento previo y socializa las indicaciones para el recorrido. Continúa por la parte alta del parque y finaliza en la vía que conduce al municipio de Choachí. Pasando por excelentes miradores y disfrutando de toda una reserva de vida de nuestra ciudad.</font></p>
 
-                        <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
+                        <!--<h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
                         <ul class="ul_inicio">
                             <font size="3">
                             <li>Históricos</li>
@@ -91,7 +92,7 @@
                             <li>Hídricos</li>
                             <li>Ecosistema de niebla y sub- páramo</li>
                             </font>
-                        </ul>
+                        </ul>-->
                         <br>
 
                         <font size="4"><center><table width="1000">
@@ -110,7 +111,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Plazoleta del Rosario, frente a la estación Museo del Oro. (Av. Jiménez carrera 6)</p>
+                                            <p>Torre del Reloj parque Nacional</p>
 
                                         </td>
 
@@ -126,7 +127,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 23 de Abril 2017</p>
+                                            <p>Domingo 30 de Abril 2017</p>
 
                                         </td>
 
@@ -174,7 +175,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>13 - 60 años</p>
+                                            <p>12 - 60 años</p>
 
                                         </td>
 
@@ -192,7 +193,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>2.800 m.s.n.m</td>
+                                            <p>Hasta 3.200  m.s.n.m</td>
 
                                     </tr>
 
@@ -221,26 +222,51 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Medio</p>
+                                            <p>Muy Alto</p>
 
                                         </td>
 
-                                    <!--</tr>
+                                    </tr>
                                     <tr valign="top">
 
                                         <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Duración</p>
+                                            <p>Tiempo de recorrido</p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>4 a 5 horas</p>
+                                            <p>6 horas</p>
 
                                         </td>
 
-                                    </tr>-->
+                                    </tr>
+                                      <tr valign="top">
+
+                                        <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+
+                                            <p>Acceso</p>
+
+                                        </td>
+
+                                        <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+
+                                            <p>Por la Cra. 7° y Cra. 5 con calles 39 y 36.</p>
+
+                                        </td>
+
+                                    </tr>
+                                       <tr valign="top">
+
+                                        <td colspan="2" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+
+                                            <p>AL FINALIZAR:</p>
+<p>Es importante tener en cuenta que se finaliza en la  Vía Choachí, Solo hay una ruta de SITP (Bicentenario – El Verjón) o en servicio  intermunicipal. </p>
+
+                                        </td>
+
+                                    </tr>
                                      
 
                         </table></center></font>
@@ -259,15 +285,15 @@
 
                                 <li>Calzado cómodo</li>
 
-                                <li>Llevar carné de la eps</li>
+                                <li>Llevar fotocopia carné de la eps</li>
 
-                                <li>Refrigerio.</li>
+                                <li>Refrigerio</li>
 
                                 <li>Medicamentos personales </li>
 
-                                <li>No llevar mascotas </li>
+                                <li>No se permiten mascotas </li>
 
-                                <li>Abstenerse de participar: mujeres en estado de embarazo, personas que tengan problemas de salud complejos</li>
+                                <li>Abstenerse de participar: mujeres en estado de embarazo, personas que tengan problemas de salud complejos, Mayores de 60 años y menores de 12 años. </li>
 
                                 <li><ins>Abstenerse de asistir si no se encuentra inscrito</ins></li>
                             </font>
